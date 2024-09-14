@@ -118,7 +118,7 @@ const quizData = {
 				question:
 					"Quelle est la proportion d'apport énergétique conseillé pour les lipides ?",
 				options: ["10 à 15 %", "25 à 30 %", "35 à 40 %"],
-				correctAnswer: 1,
+				correctAnswer: 2,
 				reference: "Valeur énergétique des macronutriments",
 			},
 			{
